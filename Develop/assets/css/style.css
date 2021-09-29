@@ -20,8 +20,11 @@
     margin: 20px;
 }
 
-#timer {
-    float: right;
+#currentTime {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
 }
 
 #goBack {
@@ -47,16 +50,8 @@
     text-align: center;
 }
 
-#start {
-    background-color: rgb(249, 152, 8);
-    position: relative;
-    padding: 10px;
-    font-size: 20px;
-    color: white;
-    left: 40%;
-    width: auto;
-    text-align: center;
-    text-decoration: none;
+button {
+    border-radius: 8px;
 }
 
 textarea {
