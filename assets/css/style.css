@@ -4,12 +4,12 @@
     top: 20%;
     width: 500px;
     height: 500px;
-    border: 1px solid rgb(202, 108, 20);
+    border: 3px solid rgb(243, 214, 161);
     border-radius: 2rem;
 }
 
 #startTime {
-    background-color: rgb(233, 161, 53);
+    background-color: rgb(231, 203, 113);
     margin-left: 33%;
     padding: 15px 32px;
     font-size: 20px;
@@ -28,7 +28,7 @@
 }
 
 #goBack {
-    background-color: rgb(249, 152, 8);
+    background-color: rgb(231, 203, 113);
     position: relative;
     padding: 10px;
     font-size: 20px;
@@ -40,7 +40,7 @@
 }
 
 #clear {
-    background-color: rgb(249, 152, 8);
+    background-color: rgb(231, 203, 113);
     position: relative;
     padding: 10px;
     font-size: 20px;
@@ -52,6 +52,7 @@
 
 button {
     border-radius: 8px;
+    border-color: linen;
 }
 
 textarea {
@@ -60,7 +61,7 @@ textarea {
 }
 
 #Submit {
-    background-color: rgb(249, 152, 8);
+    background-color: rgb(231, 203, 113);
     margin-left: 33%;
     padding: 15px 32px;
     font-size: 20px;
@@ -79,7 +80,7 @@ input {
 
 h1 {
     text-align: center;
-    color: rgb(99, 54, 5);
+    color: rgb(196, 142, 144);
 }
 
 p {
@@ -87,7 +88,7 @@ p {
 }
 
 li {
-    background-color: rgb(249, 152, 8);
+    background-color: rgb(169, 189, 149);
     margin-top: 10px;
     padding: 5px 15px;
     width: 80%;
