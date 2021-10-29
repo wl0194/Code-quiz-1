@@ -14,4 +14,5 @@ https://github.com/wl0194/Code-quiz-1
 
 https://wl0194.github.io/Code-quiz-1/
 
-
+# License
+MIT
