@@ -12,6 +12,7 @@ This application let the users to build a timed coding quiz with multiple-choice
 
 * Websites
   * [Github](https://github.com/wl0194)
+  * [Live App](https://wl0194.github.io/Quiz-Me/)
 
 ## Features
 
